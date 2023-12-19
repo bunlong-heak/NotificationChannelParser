@@ -27,7 +27,7 @@ namespace NotificationChannelParser
             }
 
             string channels = string.Join(", ", channelList.ToArray());
-            Console.WriteLine($"{Environment.NewLine}Received Channels: {channels}");
+            Console.WriteLine($"{Environment.NewLine}Receive Channels: {channels}");
             Console.Write($"{Environment.NewLine}Press any key to exit...");
             Console.ReadKey(true);
         }
