@@ -1,0 +1,14 @@
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.exe
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.deps.json
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.runtimeconfig.json
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.dll
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.pdb
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.AssemblyInfoInputs.cache
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.AssemblyInfo.cs
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.csproj.CoreCompileInputs.cache
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.dll
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\refint\NotificationChannelParser.dll
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.pdb
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.genruntimeconfig.cache
+C:\Users\Bunlong Heak\source\repos\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\ref\NotificationChannelParser.dll
